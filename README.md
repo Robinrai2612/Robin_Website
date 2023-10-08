@@ -33,6 +33,9 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 ### Image Credit
 https://unsplash.com/
 
+### Output Demo 
+http://127.0.0.1:5500/index.html
+
 
 
 
