@@ -1,5 +1,5 @@
 # Website for Robin
-This is a simple HTML webpage designed for Robin, an open source enthusiast and passionate web developer. The webpage includes a navigation menu, a brief introduction, and links to Robin's portfolio and contact information.
+This is a simple HTML webpage designed for me, an open source enthusiast and passionate web developer. The webpage includes a navigation menu, a brief introduction, and links to Robin's portfolio and contact information.
 
 ## Table of Contents
 
